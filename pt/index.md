@@ -1,4 +1,0 @@
----
-layout: homemain
-lang: pt
----

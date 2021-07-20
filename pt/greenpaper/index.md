@@ -1,4 +1,0 @@
----
-layout: greenpaper
-lang: pt
----

@@ -1,4 +1,0 @@
----
-layout: contact
-lang: pt
----
