@@ -1,0 +1,70 @@
+.download-page {
+    padding-bottom: 3rem;
+    
+    .dl-sect {
+        margin-top: 25px;
+        .row {
+            margin-top: 25px;
+        }
+        .center {
+            display: flex;
+            align-items: center;
+        }
+        
+    }
+    
+    .row {
+        p {
+            padding-top: 10px;
+        }
+    }
+
+    .release {
+        font-size: 1.3rem;
+        padding: 0.5rem 0;
+
+        a {
+            color: #0C282A;
+            font-weight: bold;
+        }
+    }
+    
+    .btn {
+        background: #3AAC59;
+        color: white;
+        border-radius: 2px;
+        font-weight: bold;
+        font-size: 16px;
+        padding: .75em;
+        width: 80%;
+        margin: auto;
+
+        img {
+            margin-bottom: 3px;
+            margin-right: 0.5rem;
+            height: 24px;
+        }
+    }
+    
+    .pgp, .sha256 {
+        word-wrap: break-word;
+        color: #39ac58;
+            
+        img {
+            margin-bottom: 3px;
+            margin-right: 0.5rem;
+            height: 24px;
+        }
+    }
+    
+    .sha256-title {
+    }
+    
+    .dl-box-text {
+        
+    }
+    
+    .center {
+
+    }
+}

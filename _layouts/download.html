@@ -1,0 +1,165 @@
+---
+layout: default
+---
+
+{% assign strings = site.data.strings[page.lang] %}
+{% assign download = site.download | where:"lang",page.lang | reverse %}
+
+{% include navigation.html active="download" %}
+
+<div class="download-page">
+    <div class="container dl-sect">
+    <div class="row">
+        <div class="col-12">
+            <h1 class="page-main-title mt-5">{{ strings.navigation.download }}</h1>
+<!--            <p>{{ strings.download_main_text }}</p> -->
+            <p><em>This page is the only official source for installer downloads. Do not trust downloads from other sources.</em></p>
+            <p>Detailed <a href="https://github.com/Chia-Network/chia-blockchain/wiki/INSTALL" target="_blank">Installation instructions</a> and <a href="https://github.com/Chia-Network/chia-blockchain" target="_blank">source code</a> can be found on Github.</p>
+            <h6><em>Note: Windows installer does NOT support Windows 7!</em></h6>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4 center">
+            <a href="https://download.chia.net/latest/Setup-Win64.exe" target="_blank" rel="noreferrer noopener" class="btn btn-lg d-block mt-2 mb-2"><img src="/assets/icons/windows_logo.svg">{{ strings.download_windows_button }}</a>
+        </div>
+        <div class="col-sm-4 center">
+            <div>
+                <em>Version 1.2.2</em> | <em>64 bit</em><br><a href="https://download.chia.net/torrents/ChiaSetup-1.2.2.exe.torrent">Torrent Download</a>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <p class="sha256-title">SHA256 checksum:
+                <span class="sha256">b7e581ded2f7ef42b4b40c3040fc4f9c9d340006c12119ced59233401bb84785</span>
+            </p>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-sm-4 center">
+            <a href="https://download.chia.net/latest/Setup-MacOS.dmg" target="_blank" rel="noreferrer noopener" class="btn btn-lg d-block mt-2 mb-2"><img src="/assets/icons/apple_logo.svg">{{ strings.download_macosintel_button }}</a>
+        </div>
+        <div class="col-sm-4 center">
+            <div>
+                <em>Version 1.2.2</em> | <em>64 bit</em><br><a href="https://download.chia.net/torrents/Chia-1.2.2.dmg.torrent">Torrent Download</a>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <p class="sha256-title">SHA256 checksum:
+                <span class="sha256">cca0d22b03a7414d54bf8122dc18eecedbb67f3fb82f2188e3bf3fdd3fd1e279</span>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4 center">
+            <a href="https://download.chia.net/latest/Setup-MacOS-arm64.dmg" target="_blank" rel="noreferrer noopener" class="btn btn-lg d-block mt-2 mb-2"><img src="/assets/icons/apple_logo.svg">{{ strings.download_macosm1_button }}</a>
+        </div>
+        <div class="col-sm-4 center">
+            <div>
+                <em>Version 1.2.2</em> | <em>64 bit</em><br><a href="https://download.chia.net/torrents/Chia-1.2.2-arm64.dmg.torrent">Torrent Download</a>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <p class="sha256-title">SHA256 checksum:
+                <span class="sha256">20d99c223ceb7d05c27baed9b257e75497aee4d5411bfd721f95544de13f0873</span>
+            </p>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-sm-4 center">
+            <a href="https://download.chia.net/latest/x86_64-Ubuntu-gui" target="_blank" rel="noreferrer noopener" class="btn btn-lg d-block mt-2 mb-2"><img src="/assets/icons/linux_tux_logo.svg">{{ strings.download_debian_button }}</a>
+        </div>
+        <div class="col-sm-4 center">
+            <div>
+                <em>Version 1.2.2</em> | <em>64 bit</em><br><a href="https://download.chia.net/torrents/chia-blockchain_1.2.2_amd64.deb.torrent">Torrent Download</a>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <p class="sha256-title">SHA256 checksum:
+                <span class="sha256">98f93cdd722ba770293f951fae49afa1be36d8d258594af041f58df8408faf97</span>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4 center">
+            <a href="https://download.chia.net/latest/ARM64-Ubuntu-gui" target="_blank" rel="noreferrer noopener" class="btn btn-lg d-block mt-2 mb-2"><img src="/assets/icons/linux_tux_logo.svg">{{ strings.download_debianarm_button }}</a>
+        </div>
+        <div class="col-sm-4 center">
+            <div>
+                <em>Version 1.2.2</em> | <em>64 bit</em><br><a href="https://download.chia.net/torrents/chia-blockchain_1.2.2_arm64.deb.torrent">Torrent Download</a>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <p class="sha256-title">SHA256 checksum:
+                <span class="sha256">2c2978893161e54ffdd25718f77e058c2219b311ff3d39dfce8b81ddfacd8020</span>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4 center">
+            <a href="https://download.chia.net/latest/x86_64-Redhat-gui" target="_blank" rel="noreferrer noopener" class="btn btn-lg d-block mt-2 mb-2"><img src="/assets/icons/linux_tux_logo.svg">{{ strings.download_centosfedora_button }}</a>
+        </div>
+        <div class="col-sm-4 center">
+            <div>
+                <em>Version 1.2.2</em> | <em>64 bit</em><br><a href="https://download.chia.net/torrents/chia-blockchain-1.2.2-1.x86_64.rpm.torrent">Torrent Download</a>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <p class="sha256-title">SHA256 checksum:
+                <span class="sha256">e73c434f25d7a6cd0ca79e8f96405568990ea66e5ddaeb902914677ec513ecc2</span>
+            </p>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-sm-4 center">
+        </div>
+        <div class="col-sm-4 center">
+        </div>
+        <div class="col-sm-4">
+            <p><a href="/download/verify_checksum">How to Verify Checksum</a></p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <h2>Other Platforms</h2>
+            <p>Python 3.7 or newer is required.</p>
+            <ul>
+                <li><a href="https://github.com/Chia-Network/chia-blockchain/wiki/Raspberry-Pi" target="_blank">Raspberry Pi 4</a></li>
+                <li><a href="https://github.com/orgs/Chia-Network/packages/container/package/chia" target="_blank">Docker</a></li>
+                <li><a href="https://github.com/Chia-Network/chia-blockchain/wiki/FreeBSD-Install" target="_blank">FreeBSD</a></li>
+                <li><a href="https://github.com/Chia-Network/chia-blockchain/wiki/Ubuntu-Binary-Install" target="_blank">Ubuntu Binary</a></li>
+                <li><a href="https://github.com/Chia-Network/chia-blockchain/wiki/OpenBSD-Install" target="_blank">OpenBSD</a></li>
+            </ul>
+        </div>
+    </div>
+    <hr  />
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <a name="release-notes"></a><h1 class="page-main-title mt-5">{{ strings.download_title }}</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12" id="releases-box">
+                <div class="text-center">{{ strings.download_loading_message }}</div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<script type="text/javascript">
+fetch("https://api.github.com/repos/Chia-Network/chia-blockchain/releases").then(function(response) { return response.json(); }).then(function(jsonResult) {
+    document.getElementById("releases-box").innerHTML = jsonResult.map(function(release) {
+        var title = "Chia Blockchain " + release.name;
+        var date = new Date(release.published_at).toLocaleDateString('en-US', {year: "numeric", month: "long", day: "numeric"});
+        return (
+            '<div class="release">' +
+                '<a href="' + release.html_url + '" target="_blank" rel="noreferrer noopener">' + title + '</a>' +
+                '<div class="order-md-first float-md-right">' + date + '</div>' +
+            '</div>'
+        )
+    }).join('\n');
+});
+</script>

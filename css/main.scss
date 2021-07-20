@@ -1,0 +1,46 @@
+---
+---
+
+// fonts
+@import 'hco_fonts';
+
+body {
+    font-family: 'HCo Gotham SSm';
+    font-size: 16px;
+    color: #0C282A;
+}
+
+hr {
+    border-top-color: #808080;
+}
+
+a {
+    color: #3AAC59;
+    &:hover { color: #3AAC59; }
+}
+
+.page-main-title {
+    font-weight: bold;
+    font-size: 40px;
+    color: #0C282A;
+}
+
+// pages
+@import 'homemain';
+@import 'download';
+@import 'faq';
+@import 'about';
+@import 'news';
+@import 'blog';
+@import 'contact';
+@import 'post';
+@import 'greenpaper';
+@import 'proof_of_space_competition';
+@import 'proof_of_time_contest';
+@import 'basic';
+
+// components
+@import 'footer';
+@import 'navigation';
+@import 'video';
+@import 'email_box'

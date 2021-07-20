@@ -1,0 +1,25 @@
+.footer {
+    width: 100%;
+    background-color: #0A3838;
+    font-size: 14px;
+
+    a {
+        color: inherit;
+    }
+
+    .contact-details {
+        img {
+            width: 24px;
+        }
+    }
+
+    .logo {
+        width: 150px;
+    }
+
+    .copyright {
+        margin-top: 12px;
+        color: #3AAC59;
+        white-space: nowrap;
+    }
+}

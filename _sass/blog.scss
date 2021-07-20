@@ -1,0 +1,79 @@
+.blog-page {
+    padding-bottom: 3rem;
+
+    .post {
+        &.first-of-year:not(:first-child) {
+            border-top: 1px solid #808080;
+        }
+
+        &:not(.first-of-year) .content {
+            border-top: 1px solid #808080;
+        }
+
+        .year {
+            font-size: 34px;
+            font-weight: bold;
+            flex: 0 0 150px;
+            padding: 2rem 0;
+        }
+
+        .content {
+            text-decoration: none;
+            padding: 2rem 0;
+            outline: none !important;
+            display: block;
+            flex-grow: 1;
+            flex-shrink: 1;
+
+            &:hover .headline {
+                color: #777;
+            }
+
+            .date {
+                font-weight: bold;
+                font-size: 16px;
+                color: #2B693C;
+                text-transform: uppercase;
+                margin-top: 0.4rem;
+                margin-bottom: 1rem;
+            }
+    
+            .headline {
+                font-weight: bold;
+                font-size: 34px;
+                color: #0C282A;
+                transition: ease 0.5s color;
+            }
+
+            .preview {
+                margin-top: 1rem;
+                font-size: 18px;
+                color: #0C282A;
+            }
+        }
+    }
+}
+
+@media(max-width: 768px) {
+    .blog-page {
+        .post {
+            flex-direction: column;
+
+            .content {
+                border: none !important;
+            }
+
+            &.first-of-year .year {
+                flex-basis: auto;
+                font-size: 56px;
+                text-align: center;
+                padding-bottom: 0;
+                padding-top: 3rem;
+            }
+
+            &:not(.first-of-year) .year {
+                display: none;
+            }
+        }
+    }
+}
