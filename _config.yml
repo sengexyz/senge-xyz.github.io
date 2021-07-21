@@ -7,45 +7,45 @@
 
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chia.net" # the base hostname & protocol for your site
+url: "https://senge.xyz" # the base hostname & protocol for your site
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
 
 # SEO settings
-title: Chia Network
+title: Senge Network
 description: > # this means to ignore newlines until "baseurl:"
   A better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.
 twitter:
   username: chia_project
   card: summary
-facebook:
-  publisher: https://www.facebook.com/ChiaProject
-logo: /img/chia_logo.svg
+# facebook:
+#   publisher: https://www.facebook.com/ChiaProject
+logo: /img/senge_logo.svg
 social:
   links:
     - https://twitter.com/chia_project
-    - https://www.facebook.com/ChiaProject
-    - https://instagram.com/chia_project
-    - https://www.linkedin.com/company/chia-network/
-    - https://github.com/Chia-Network
-    - https://medium.com/@chia.net
-    - https://keybase.io/team/chia_network.public
+    # - https://www.facebook.com/ChiaProject
+    # - https://instagram.com/chia_project
+    # - https://www.linkedin.com/company/chia-network/
+    - https://github.com/SengeXYZ
+    # - https://medium.com/@chia.net
+    # - https://keybase.io/team/chia_network.public
 google_analytics_snippet: |
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157739092-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  # <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157739092-1"></script>
+  # <script>
+  #   window.dataLayer = window.dataLayer || [];
+  #   function gtag(){dataLayer.push(arguments);}
+  #   gtag('js', new Date());
 
-    gtag('config', 'UA-157739092-1');
-  </script>
+  #   gtag('config', 'UA-157739092-1');
+  # </script>
 defaults:
   - scope:
       path: ""
     values:
-      image: https://chia.net/android-chrome-384x384.png
+      image: https://senge.xyz/android-chrome-384x384.png
 
 collections_dir: collections
 collections:

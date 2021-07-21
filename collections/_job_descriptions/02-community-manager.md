@@ -7,7 +7,7 @@ Building a strong community is essential for mass adoption of the Chia blockchai
 
 **Responsibilities**
 
-* Build and maintain a healthy Chinese community on official social media and messaging services used by Chia Network Inc.
+* Build and maintain a healthy Chinese community on official social media and messaging services used by Senge Network Inc.
 * Develop a scalable knowledge base to provide technical support for Chinese Chia users
 * Recruit and manage volunteer community moderators to provide 24x7 support via supported messaging platforms
 * Manage communications between English speaking Chia developers and the Chinese community
@@ -30,7 +30,7 @@ Building a strong community is essential for mass adoption of the Chia blockchai
 
 **Perks**
 
-Chia Network Inc. allows for flexible work hours and remote work for this position. Core hours should match the time the Chinese Chia community is most active. We offer medical, dental, and life insurance for you, your spouse/domestic partner and children.
+Senge Network Inc. allows for flexible work hours and remote work for this position. Core hours should match the time the Chinese Chia community is most active. We offer medical, dental, and life insurance for you, your spouse/domestic partner and children.
 
 We offer competitive salaries for college graduates joining a well funded Silicon Valley startup. We are willing to sponsor OPT for F-1 students with relocation to our Singapore office after a year of employment.
 

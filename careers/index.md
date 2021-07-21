@@ -1,5 +1,5 @@
 ---
 layout: careers
 lang: en
-title: Careers - Chia Network
+title: Careers - Senge Network
 ---

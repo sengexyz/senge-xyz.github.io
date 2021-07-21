@@ -1,5 +1,5 @@
 ---
 layout: blog
 lang: cn
-title: 博客 - Chia Network
+title: 博客 - Senge Network
 ---

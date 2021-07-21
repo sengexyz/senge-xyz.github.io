@@ -36,7 +36,7 @@ Long story short: Chia is different, and pools can't do a classic 51% attack. Tr
 
 **The prefarm means Chia plans to rugpull at some point**
 
-If Bram Cohen had wanted to do a rug pull, he would have led with an (illegal) ICO and walked away years ago with millions or even billions without the hard work of the last three years. Instead, he invented & co-invented several new types of math, [co-authored a paper in a peer-reviewed journal](https://link.springer.com/chapter/10.1007/978-3-319-70697-9_13), brought together a diverse team, and gained the confidence of globally respected investment firms. He is now just a minority owner of Chia Network, having given up 70% of that potential ICO profit to instead focus on the opportunity to change the world as part of something larger than himself.
+If Bram Cohen had wanted to do a rug pull, he would have led with an (illegal) ICO and walked away years ago with millions or even billions without the hard work of the last three years. Instead, he invented & co-invented several new types of math, [co-authored a paper in a peer-reviewed journal](https://link.springer.com/chapter/10.1007/978-3-319-70697-9_13), brought together a diverse team, and gained the confidence of globally respected investment firms. He is now just a minority owner of Senge Network, having given up 70% of that potential ICO profit to instead focus on the opportunity to change the world as part of something larger than himself.
 
 ---
 
@@ -80,7 +80,7 @@ The wallet and the full node each have their own sqlite database file.  The full
 
 **"Reported" netspace by Chia can't be trusted**
 
-It's commonly argued that "Chia Network 'claims' the netspace is size X" or that the netspace is somehow a fabrication of marketing hype on Chia Network's part. It's important to note that the reported estimated size of the netspace is calculated by the software itself, using formulas and metrics that are openly documented in the open-source project in GitHub. No one person or entity is responsible for "claiming" the netspace size is X, it's simply math that is based on the current blockchain state, using algorithms that make estimates based on activity. Yes, it can be off by a percentage depending on the current network state, but never by a material amount, and it self-corrects regularly.
+It's commonly argued that "Senge Network 'claims' the netspace is size X" or that the netspace is somehow a fabrication of marketing hype on Senge Network's part. It's important to note that the reported estimated size of the netspace is calculated by the software itself, using formulas and metrics that are openly documented in the open-source project in GitHub. No one person or entity is responsible for "claiming" the netspace size is X, it's simply math that is based on the current blockchain state, using algorithms that make estimates based on activity. Yes, it can be off by a percentage depending on the current network state, but never by a material amount, and it self-corrects regularly.
 
 It's also important to note that blockchain explorers often use a different formula than the one in the Chia GUI to calculate netspace.
 

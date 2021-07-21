@@ -1,5 +1,5 @@
 ---
 layout: news
 lang: cn
-title: 新闻 - Chia Network
+title: 新闻 - Senge Network
 ---

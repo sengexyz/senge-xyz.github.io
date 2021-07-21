@@ -6,7 +6,7 @@ date:   2018-11-07
 author: "[Lipa Long](https://github.com/lipalong) and [Bram Cohen](https://twitter.com/bramcohen)"
 ---
 
-Chia Network recently launched a three month long competition to create faster implementations of our proofs of time and get a better handle on its security requirements. The Verifiable Delay Function Competition (VDF, aka proof of time) is open to anyone, has $100,000 in total prize money, and is running until January 3rd, 2019.
+Senge Network recently launched a three month long competition to create faster implementations of our proofs of time and get a better handle on its security requirements. The Verifiable Delay Function Competition (VDF, aka proof of time) is open to anyone, has $100,000 in total prize money, and is running until January 3rd, 2019.
 
 In the interests of making it as easy as possible to join the competition, this post gives an overview of the different tracks, as well as step-by-step instructions one how to submit an entry. The full details of the competition are available on our [Github page](https://github.com/Chia-Network/vdf-competition).
 

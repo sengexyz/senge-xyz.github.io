@@ -1,5 +1,5 @@
 ---
 layout: basic
 lang: en
-title: How to Verify Checksums - Chia Network
+title: How to Verify Checksums - Senge Network
 ---

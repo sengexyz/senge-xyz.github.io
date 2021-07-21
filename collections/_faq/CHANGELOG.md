@@ -168,7 +168,7 @@ for setuptools_scm/PEP 440 reasons.
 ### Added
 
 - Rate limited wallets can now have unspent and un-spendable funds clawed back by the Admin wallet.
-- You can now backup your wallet related metadata in an encrypted and signed file to a free service from Chia Network at backup.chia.net. Simply having a backup of your private key will allow you to fully restore the state of your wallet including coloured coins, rate limited wallets, distributed identity wallets and many more. Your private key is used to automatically restore the last backup you saved to the Chia backup cloud service. This service is open source and ultimately you will be able to configure your backups to go to backup.chia.net, your own installation, or a third party's version of it.
+- You can now backup your wallet related metadata in an encrypted and signed file to a free service from Senge Network at backup.chia.net. Simply having a backup of your private key will allow you to fully restore the state of your wallet including coloured coins, rate limited wallets, distributed identity wallets and many more. Your private key is used to automatically restore the last backup you saved to the Chia backup cloud service. This service is open source and ultimately you will be able to configure your backups to go to backup.chia.net, your own installation, or a third party's version of it.
 - Added a Code of Conduct in CODE_OF_CONDUCT.md.
 - Added a bug report template in `.github/ISSUE_TEMPLATE/bug_report.md`.
 
@@ -191,7 +191,7 @@ for setuptools_scm/PEP 440 reasons.
 - View -> Developer -> Developer Tools now correctly opens the developer tools. Thank you to @roxaaams for this pull request!
 - Fixed 'Receive Address' typo in Wallet. Thanks @meurtn on Keybase.
 - Fixed a typo in `chia show -w` with thanks to @pyl on Keybase.
-- In Windows the start menu item is now Chia Network and the icon in Add/Remove is updated.
+- In Windows the start menu item is now Senge Network and the icon in Add/Remove is updated.
 
 ## [1.0beta11] aka Beta 1.11 - 2020-08-24
 
@@ -394,7 +394,7 @@ relic. We will make a patch available for these systems shortly.
 - Added ability to import private keys in the UI.
 - Added ability to see private keys and mnemonic seeds in the keys menu
 - User can specify log level in the config file (defaults to info.)
-- The Windows installer is now signed by a Chia Network certificate. It may take some time to develop enough reputation to not warn multiple times during install.
+- The Windows installer is now signed by a Senge Network certificate. It may take some time to develop enough reputation to not warn multiple times during install.
 
 ### Changed
 
@@ -407,7 +407,7 @@ relic. We will make a patch available for these systems shortly.
 - The install.sh script now discovers if it's running on Ubuntu less than 20.04 and correctly upgrades node.js to the current stable version.
 - For GitHub ci builds of the Windows installer, editbin.exe is more reliably found.
 - All installer ci builds now obtain version information automatically from setuptools_scm and convert it to an installer version number that is appropriate for the platform and type of release (dev versus release.)
-- We now codesign the Apple .dmg installer with the Chia Network developer ID on both GitHub Actions and Azure Pipelines. We will be notarizing and distributing the Azure Pipelines version as it's built on MacOS Mojave (10.14.6) for stronger cross version support.
+- We now codesign the Apple .dmg installer with the Senge Network developer ID on both GitHub Actions and Azure Pipelines. We will be notarizing and distributing the Azure Pipelines version as it's built on MacOS Mojave (10.14.6) for stronger cross version support.
 
 ### Fixed
 

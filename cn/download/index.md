@@ -4,5 +4,5 @@ lang: cn
 redirect_from:
   - /errata/
   - /cn/releases/
-title: 下载 - Chia Network
+title: 下载 - Senge Network
 ---

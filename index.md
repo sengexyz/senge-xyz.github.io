@@ -1,7 +1,7 @@
 ---
 layout: homemain
 lang: en
-title: Home - Chia Network
+title: Home - Senge Network
 redirect_from:
   - /developer/
 ---

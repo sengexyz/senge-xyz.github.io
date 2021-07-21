@@ -1,5 +1,5 @@
 ---
 layout: news
 lang: en
-title: News - Chia Network
+title: News - Senge Network
 ---
