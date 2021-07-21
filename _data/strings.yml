@@ -10,7 +10,12 @@ en: # English
     Hello everyone, I am your Senge.
     --------------------
 
-    To be added ...
+    Hello everyone, I am your Senge, a code farmer who likes to mine.
+    
+    In this channel, I will share with you the pits I have stepped on in coding and mining and the joy of success.
+
+
+     Thanks for subscribing, like, comments and forwarding are welcome.
    
   homemain_addendum: |
     Released under the open source [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
@@ -153,26 +158,12 @@ cn: # Chinese
   homemain_subtitle: "更好的區塊鍊和智能交易平台，更加分散，更高效，更安全。"
   homemain_button: "下载Beta Testnet"
   homemain_description: |
-    Chia的Beta测试网
+    大家好，我是你们的森哥
     -------------
 
-    Senge Network是由BitTorrent的創始人[Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/)創建的區塊鍊和智能交易平台。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为此，将能源密集型“工作量证明”替换为“空间量证明”，因此磁盘空间成为验证交易而非能源的主要资源。
-
-    Beta测试网推出了Chialisp的第一个版本，即Chia的智能事务编程语言。当前可用的智能交易有：[原子交换](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md)，[授权收款人](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_pa​​yees.md)，[可恢复的钱包](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md)，[multisig钱包](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org)和[限价钱包](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md)。 Senge Network的创始人和BitTorrent的前创始人在[Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html)上有更多内容。
-
-    Beta测试网还引入了Chia的区块链共识层，其中包括一个完整的节点，农民和时间主。
-
-    由于这是Beta版本，因此您可能需要查看[release notes](download/#release-notes)。
-
-    区块链
-    ---
-
-    Chia的区块链包括一个完整的节点，农民和时间领主。在[GitHub](https://github.com/Chia-Network/chia-blockchain)上下载源代码。
-
-    Chialisp和LedgerSim
-    ------------------
-
-    LedgerSim支持在账本而非区块链上进行Chialisp智能交易，以进行测试和开发。 Chia的钱包展示了我们的新编程语言Chialisp。在[GitHub](https://github.com/Chia-Network/wallets)上下载源代码。
+    大家好，我是你们的森哥，一枚喜欢挖矿的码农。
+    在这个频道和大家分享我在编码和挖矿中那些踩过的坑和成功的喜悦。 
+    
   homemain_addendum: |
     在開源[Apache許可證]（https://www.apache.org/licenses/LICENSE-2.0）下發布。
   homemain_box_title: "资料下载"
