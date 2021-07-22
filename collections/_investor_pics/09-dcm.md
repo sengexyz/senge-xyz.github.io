@@ -1,6 +1,6 @@
 ---
-pic_url: "/assets/dcm.png"
-name: "DCM Ventures"
-web_url: "https://www.dcm.com/en/about"
+pic_url: "/assets/customers/turbine.png"
+name: "Customer 9"
+web_url: "#"
 order: 9
 ---

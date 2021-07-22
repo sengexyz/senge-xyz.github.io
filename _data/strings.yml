@@ -50,15 +50,17 @@ en: # English
   download_amzlinux_button: "Install Amazon Linux"
   about_title: "About Us"
   about_description: |
-    Founded by Bram Cohen, the inventor of the BitTorrent network, Senge XYZ is building a better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.
+    I am a software engineer born in mainland China and currently living in the United States. He has nearly 20 years of work and academic experience in the field of software and engineering. He has worked in various software companies and led the research and development of many software products and won praise in the industry. Not only has a deep understanding of software code and architecture, but also has a professional perspective and processing methods for engineering, requirements, and products.
 
-    Chialisp is Chia’s new smart transaction programming language that is powerful, easy to audit, and secure. The blockchain is powered by the first new Nakamoto style consensus algorithm since Bitcoin launched in 2008. Proofs of Space and Time replace energy intensive “proofs of work” by utilizing unused disk space.
+    In April 2021, the Chia cryptocurrency became popular on the entire network. I was also involved in the mining tide for the first time. Through this opportunity, I also gained a very in-depth understanding of cryptocurrency and blockchain technology, and I mastered it in a very short period of time. I have learned a series of important skills such as mining and issuing coins, and I am willing to share knowledge and make friends. I have met many friends and partners on YouTube channels and telegram groups.
 
-    Senge XYZ supports the development and deployment of the Chia blockchain globally. Senge XYZ supports chia developers and supports the enterprise use of chia with software support and chia lending.
-  about_team_title: "Team"
+    Having lived in China and the United States for many years, I can not only communicate fluently in both Chinese and English, but also have a deep understanding of Chinese and Western cultures. Honesty and truthfulness, drinking water and thinking about the source have always been my life creed.
+  about_team_title: "Expertise"
   about_team_description: |
-    Senge XYZ was founded by the creator of BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). It also includes executive leadership from the former founder and CEO of eMusic.com and Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) and the former acting-CEO of Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). The Chia blockchain has an active open source developer community with many contributions to the codebase. Many individuals contribute towards the Chia blockchain in areas which include research, peer reviews, development, testing, documentation, and translation.
-  about_invest_investors_title: "Our Investors"
+    My professional skills include: software product design and architecture, proficient programming languages including but not limited to C/C++, Python, JavaScript, Html. In addition, I am also good at stand-up comedy.
+
+    In my spare time, I can make woodwork, play guitar, and sing.
+  about_invest_investors_title: "Our Customers"
   careers_title: "Careers"
   careers_description: |
     **Chia is hiring!**
@@ -183,13 +185,18 @@ cn: # Chinese
   homemain_idc_report: "Read the Report"
   about_title: "关于我们"
   about_description: |
-    Senge XYZ是一个去中心化的开源全球区块链，与传统的工作量证明加密货币相比，其浪费更少，去中心化程度更高，更安全。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为了实现这一目标，比特币中使用的“工作证明”被“空间证明”代替，因此磁盘空间成为达成分散式“中本聪式”共识以验证交易的主要资源和时间证明。
+    我是一名出生于中国大陆，目前定居于美国的软件工程师。在软件和工程领域有近20年的工作与学术经验。曾经在各类型软件企业工作过，主导研发过多款软件产品并赢得业界好评。不仅对软件代码、构架有着深刻的认识，对工程、需求、产品都有专业视角与处理方式。
 
-    Chia网络还是一家智能交易平台公司。
-  about_team_title: "球队"
+    2021年4月Chia加密货币火爆全网，我也第一时间参与到挖矿大潮中，通过这个机会也对加密货币和区块链技术有了非常深入的理解，在很短的时间内就掌握了挖矿、发币等一系列重要技能，并且乐于分享知识和结交朋友，在YouTube频道和电报群都认识了很多朋友和合作伙伴。
+
+    在中美两国多年的生活，我不仅能用中英文两种语言流利地交流，同时对中西方文化也有深刻的理解。诚信求实，饮水思源一直是我的人生信条。
+
+  about_team_title: "专业技能"
   about_team_description: |
-    Senge XYZ由BitTorrent的创建者[Bram Cohen](https://www.linkedin.com/in/cohenbram/)创立。它包括eMusic.com和Vindicia的前创始人兼首席执行官[Gene Hoffman](https://www.linkedin.com/in/gehoffman/), 以及Overstock.com的前代理首席执行官[Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). Chia区块链拥有活跃的开源开发者社区，对代码库做出了许多贡献。许多人在包括研究，同行评审，开发，测试，文档和翻译在内的领域为Chia区块链做出贡献。
-  about_invest_investors_title: "我们的投资者"
+    我的专业技能有：软件产品设计与构架，熟练的编程语言包括但不限于C/C++, Python, JavaScript, Html。此外我还擅长单口相声。
+
+    在业余时间，我会制作木工，演奏吉他，和唱歌。
+  about_invest_investors_title: "我们的客户"
   blog_title: "直接来自Chia"
   download_title: "发行说明"
   download_loading_message: "正在加载发行版..."

@@ -1,6 +1,6 @@
 ---
-pic_url: "/assets/metastable.png"
-name: "Metastable Capital"
-web_url: "https://metastablecapital.com/"
+pic_url: "/assets/customers/factory3.png"
+name: "Customer 10"
+web_url: "#"
 order: 10
 ---

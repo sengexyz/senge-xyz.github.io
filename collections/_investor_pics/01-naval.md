@@ -1,6 +1,6 @@
 ---
-pic_url: "/assets/naval.png"
-name: "Naval Ravikant"
-web_url: "https://theangelphilosopher.com/"
+pic_url: "/assets/customers/building1.png"
+name: "Customer 1"
+web_url: "#"
 order: 1
 ---

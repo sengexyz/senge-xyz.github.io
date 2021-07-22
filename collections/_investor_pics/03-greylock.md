@@ -1,6 +1,6 @@
 ---
-pic_url: "/assets/greylock.png"
-name: "Greylock Partners"
-web_url: "https://www.greylock.com/"
+pic_url: "/assets/customers/factory2.png"
+name: "Customer 3"
+web_url: "#"
 order: 3
 ---
