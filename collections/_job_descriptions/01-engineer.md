@@ -3,7 +3,7 @@ order: 1
 title: "Software Engineer"
 ---
 
-Senge Networks is hiring technically gifted programmers to expand our team of cryptographers and engineers building our blockchain and smart transaction platform. We have a focus on easy to use software across architectures and operating systems. You should have strong algorithmic skills. Cryptography experience is a plus but not required. Remote is okay and currently the standard, though there is a concentration of people in the SF Bay Area. To apply, if your resume does not speak for itself, please complete a couple of [LeetCode Contests](https://leetcode.com/contest/) and send a link to your LeetCode profile and your resume in your Cover Letter.
+Senge XYZs is hiring technically gifted programmers to expand our team of cryptographers and engineers building our blockchain and smart transaction platform. We have a focus on easy to use software across architectures and operating systems. You should have strong algorithmic skills. Cryptography experience is a plus but not required. Remote is okay and currently the standard, though there is a concentration of people in the SF Bay Area. To apply, if your resume does not speak for itself, please complete a couple of [LeetCode Contests](https://leetcode.com/contest/) and send a link to your LeetCode profile and your resume in your Cover Letter.
 
 We once asked Bram what to put here and he said, "We need engineers to press buttons on computers..." That said, you will get to work with some of best engineers and cryptographers in the world - on the latest protocols and research.
 

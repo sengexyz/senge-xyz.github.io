@@ -6,7 +6,7 @@ date:   2018-06-11
 author: "[Bram Cohen](https://twitter.com/bramcohen) and [Gene Hoffman](https://twitter.com/hoffmang)"
 ---
 
-A recent [podcast](http://multicoin.libsyn.com/conversations-with-multicoin-capital-dhruv-bansal) speculated quite a bit about the economics of Senge Network’s new proof of space and time consensus algorithm.
+A recent [podcast](http://multicoin.libsyn.com/conversations-with-multicoin-capital-dhruv-bansal) speculated quite a bit about the economics of Senge XYZ’s new proof of space and time consensus algorithm.
 
 Let’s discuss the assertion that there are optimizations in storage technology allow for the creation of specialized Chia farming hardware that costs an order of magnitude less than commodity disks.
 

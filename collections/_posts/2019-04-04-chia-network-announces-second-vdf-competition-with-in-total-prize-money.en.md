@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: post
-title:  "Senge Network Announces 2nd VDF Competition with $100,000 in Total Prize Money"
+title:  "Senge XYZ Announces 2nd VDF Competition with $100,000 in Total Prize Money"
 date:   2019-04-04
 author: "[Matt Howard](https://github.com/matt-o-how) and [Bram Cohen](https://twitter.com/bramcohen)"
 ---

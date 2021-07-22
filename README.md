@@ -58,7 +58,7 @@ layout: post
 date:   2019-04-04
 
 # also used as title of card preview on Twitter and Facebook
-title:  "Senge Network Announces 2nd VDF Competition with $100,000 in Total Prize Money"
+title:  "Senge XYZ Announces 2nd VDF Competition with $100,000 in Total Prize Money"
 
 # thumbnail image (note: must be a full URL, so it has to start with `https://chia.net/...`)
 # note: this defaults to https://chia.net/android-chrome-384x384.png
@@ -67,7 +67,7 @@ image: https://chia.net/android-chrome-384x384.png
 
 # description of the current page
 # note: this defaults to the first paragraph of the content
-description: "This is a blog post on Senge Network's blog."
+description: "This is a blog post on Senge XYZ's blog."
 
 # content language
 lang: en
@@ -197,7 +197,7 @@ This may seem inefficient, but GitHub Pages' Jekyll setup currently has no inter
 ---
 layout: homepage
 lang: fr
-title: Accueil - Senge Network
+title: Accueil - Senge XYZ
 ---
 ```
 

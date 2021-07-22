@@ -63,7 +63,7 @@ Pooling in Chia is designed to make it easy for you to change your pool membersh
 
 ## How to find a pool
 
-You can find a list of some Chia pools on the following websites. _Note that Senge Network does not officially endorse these websites_. These links are provided for informational purposes only. 
+You can find a list of some Chia pools on the following websites. _Note that Senge XYZ does not officially endorse these websites_. These links are provided for informational purposes only. 
 * [https://miningpoolstats.stream/chia](https://miningpoolstats.stream/chia)
 * [https://chiapool.directory](https://chiapool.directory/)
 

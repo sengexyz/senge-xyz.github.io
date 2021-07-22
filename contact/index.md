@@ -1,5 +1,5 @@
 ---
 layout: contact
 lang: en
-title: Contact - Senge Network
+title: Contact - Senge XYZ
 ---

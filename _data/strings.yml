@@ -2,7 +2,7 @@ en: # English
   faq_title: "FAQ"
   news_title: "News"
   news_see_more: "See more"
-  homemain_title: "Senge Network"
+  homemain_title: "Senge XYZ"
   homemain_subtitle: "A professional software developer who likes farming cryptocurrency."
   homemain_announce: "<a href='https://www.chia.net/2021/07/07/official-pooling-launched.en.html'>Senge's website is live!</a>"
   homemain_button: "Download Beta Testnet"
@@ -30,7 +30,7 @@ en: # English
   homemain_downloads_link: "Release notes"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Senge Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The Senge XYZ was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   download_main_text: |
     This is the official Chia installer download page. Any other installer download sources are unofficial and unsafe.
@@ -50,14 +50,14 @@ en: # English
   download_amzlinux_button: "Install Amazon Linux"
   about_title: "About Us"
   about_description: |
-    Founded by Bram Cohen, the inventor of the BitTorrent network, Senge Network is building a better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.
+    Founded by Bram Cohen, the inventor of the BitTorrent network, Senge XYZ is building a better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.
 
     Chialisp is Chia’s new smart transaction programming language that is powerful, easy to audit, and secure. The blockchain is powered by the first new Nakamoto style consensus algorithm since Bitcoin launched in 2008. Proofs of Space and Time replace energy intensive “proofs of work” by utilizing unused disk space.
 
-    Senge Network supports the development and deployment of the Chia blockchain globally. Senge Network supports chia developers and supports the enterprise use of chia with software support and chia lending.
+    Senge XYZ supports the development and deployment of the Chia blockchain globally. Senge XYZ supports chia developers and supports the enterprise use of chia with software support and chia lending.
   about_team_title: "Team"
   about_team_description: |
-    Senge Network was founded by the creator of BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). It also includes executive leadership from the former founder and CEO of eMusic.com and Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) and the former acting-CEO of Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). The Chia blockchain has an active open source developer community with many contributions to the codebase. Many individuals contribute towards the Chia blockchain in areas which include research, peer reviews, development, testing, documentation, and translation.
+    Senge XYZ was founded by the creator of BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). It also includes executive leadership from the former founder and CEO of eMusic.com and Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) and the former acting-CEO of Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). The Chia blockchain has an active open source developer community with many contributions to the codebase. Many individuals contribute towards the Chia blockchain in areas which include research, peer reviews, development, testing, documentation, and translation.
   about_invest_investors_title: "Our Investors"
   careers_title: "Careers"
   careers_description: |
@@ -93,10 +93,10 @@ en: # English
     Happy Farming!
   terms_team_title: "Guidelines"
   terms_team_description: |
-    * [Guidelines for Using Senge Network’s Trademarks and Copyrighted Materials on the Web](/assets/legal/Guidelines-for-Using-Chia-Network.pdf)
+    * [Guidelines for Using Senge XYZ’s Trademarks and Copyrighted Materials on the Web](/assets/legal/Guidelines-for-Using-Chia-Network.pdf)
     * [Chia Copyright Policy](/assets/legal/Chia-Copyright-Policy.pdf)
     * [Chia Trademark Policy](/assets/legal/Chia-Trademark-Policy.pdf)
-  footer_copyright_year: "© Senge Network 2021"
+  footer_copyright_year: "© Senge XYZ 2021"
   navigation:
     download: "Download"
     about: "About"
@@ -107,7 +107,9 @@ en: # English
     # careers: "Careers"
     contact: "Contact"
   contact_title: "Contact Us"
+  contact_business_inquiries: "Business Inquiries"
   contact_join_keybase: "Join our Keybase group"
+  contact_join_telegram: "Join our Telegram group"
   contact_email_title: "Never miss news. Subscribe today."
   contact_live_feed_title: "Keybase Live Feed"
   contact_email: "Email"
@@ -177,16 +179,16 @@ cn: # Chinese
   homemain_downloads_link: "查看发行说明"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
-    “The Senge Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
+    “The Senge XYZ was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   about_title: "关于我们"
   about_description: |
-    Senge Network是一个去中心化的开源全球区块链，与传统的工作量证明加密货币相比，其浪费更少，去中心化程度更高，更安全。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为了实现这一目标，比特币中使用的“工作证明”被“空间证明”代替，因此磁盘空间成为达成分散式“中本聪式”共识以验证交易的主要资源和时间证明。
+    Senge XYZ是一个去中心化的开源全球区块链，与传统的工作量证明加密货币相比，其浪费更少，去中心化程度更高，更安全。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为了实现这一目标，比特币中使用的“工作证明”被“空间证明”代替，因此磁盘空间成为达成分散式“中本聪式”共识以验证交易的主要资源和时间证明。
 
     Chia网络还是一家智能交易平台公司。
   about_team_title: "球队"
   about_team_description: |
-    Senge Network由BitTorrent的创建者[Bram Cohen](https://www.linkedin.com/in/cohenbram/)创立。它包括eMusic.com和Vindicia的前创始人兼首席执行官[Gene Hoffman](https://www.linkedin.com/in/gehoffman/), 以及Overstock.com的前代理首席执行官[Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). Chia区块链拥有活跃的开源开发者社区，对代码库做出了许多贡献。许多人在包括研究，同行评审，开发，测试，文档和翻译在内的领域为Chia区块链做出贡献。
+    Senge XYZ由BitTorrent的创建者[Bram Cohen](https://www.linkedin.com/in/cohenbram/)创立。它包括eMusic.com和Vindicia的前创始人兼首席执行官[Gene Hoffman](https://www.linkedin.com/in/gehoffman/), 以及Overstock.com的前代理首席执行官[Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). Chia区块链拥有活跃的开源开发者社区，对代码库做出了许多贡献。许多人在包括研究，同行评审，开发，测试，文档和翻译在内的领域为Chia区块链做出贡献。
   about_invest_investors_title: "我们的投资者"
   blog_title: "直接来自Chia"
   download_title: "发行说明"
@@ -210,17 +212,19 @@ cn: # Chinese
     布拉姆·科恩（Bram Cohen）于2018年2月在斯坦福大学（太空证明）上演讲（https://www.youtube.com/watch?v=2Zlcgt8FVz4）。我们的顾问Dan Boneh，BenediktBünz和Ben Fisch [发布了VDF调查]（https://eprint.iacr.org/2018/712.pdf），这是时间证明的基础技术。 Lipa Long [发布了有关班级分组的说明]（https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf），我们的《时间证明》（https://eprint.iacr.org/2018/627.pdf）。根据[学术论文]，布拉姆于2018年1月在BPASE '18上展示了[超越Hellman的时间记忆权衡与空间证明的应用]（https://www.youtube.com/watch?v=iqxkO7C-cyk） ]（https://eprint.iacr.org/2017/893）和Hamza Abusalah的这些[幻灯片]（https://view.publitas.com/chia-network/pbase18slides/page/1）。 Ben Fisch在2018年1月的BPASE 2018上就可验证延迟功能进行了[演讲]（https://www.youtube.com/watch?v=qUoagL7OZ1k）。 Bram [在伯克利的Blockchain发言人]（https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/）（大约20:00开始）于2018年3月发布，带有[幻灯片]（https://cyber.stanford.com）。 edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf）。布拉姆（Bram）在2017年1月发表了[在BPASE 2017上的演讲]（https://www.youtube.com/watch?v=aYG0NxoG7yw），内容涉及用时空证明（[幻灯片]（https：//cyber.stanford .edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf））。
 
     Bram在SF Bitcoin Devs Seminar上进行了[演讲]（https://www.youtube.com/watch?v=zZaB4hM8SQ4），讨论了使用[幻灯片]扩展比特币的数据结构（https://view.publitas.com/chia -network / bitcoin_data_structures /）和[Merkle Set代码]（https://github.com/bramcohen/MerkleSet）。布拉姆（Bram）在SF比特币开发者研讨会上发表了有关消除加密货币浪费的演讲[https://www.youtube.com/watch?v=zZaB4hM8SQ4]。
-  footer_copyright_year: "©Senge Network 2021"
+  footer_copyright_year: "©Senge XYZ 2021"
   navigation:
     download: "下载"
     about: "关于"
     blog: "博客"
-    news: "新闻"
+    # news: "新闻"
     faq: "常问问题"
-    greenpaper: "绿皮书"
+    # greenpaper: "绿皮书"
     contact: "联系"
   contact_title: "联系我们"
+  contact_business_inquiries: "商业合作"
   contact_join_keybase: "加入我们的Keybase组"
+  contact_join_telegram: "加入我们的Telegram组"
   contact_email_title: "永远不要错过新闻。立即订阅。"
   contact_live_feed_title: "动态信息"
   contact_email: "电子邮件"

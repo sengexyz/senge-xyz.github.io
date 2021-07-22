@@ -1,5 +1,5 @@
 ---
 layout: news
 lang: en
-title: News - Senge Network
+title: News - Senge XYZ
 ---

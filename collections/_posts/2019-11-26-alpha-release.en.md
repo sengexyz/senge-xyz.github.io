@@ -6,7 +6,7 @@ date:   2019-11-26
 author: "[Gene Hoffman](https://twitter.com/hoffmang)"
 ---
 
-The Chia blockchain and consensus algorithm aims to provide a more environmentally friendly, decentralized, and secure alternative to proof of work or proof of stake, while maintaining some of the key properties that make Nakamoto consensus desirable. The full description of the algorithm can be reviewed in the [Senge Network Green Paper](/assets/ChiaGreenPaper.pdf).
+The Chia blockchain and consensus algorithm aims to provide a more environmentally friendly, decentralized, and secure alternative to proof of work or proof of stake, while maintaining some of the key properties that make Nakamoto consensus desirable. The full description of the algorithm can be reviewed in the [Senge XYZ Green Paper](/assets/ChiaGreenPaper.pdf).
 
 This is an alpha quality code release so that means that things may behave strangely and not all of the current technology choices or protocols will remain the same as we move towards mainnet. Our [release notes](/releases) have a good overview of some of the things that we know will change. This is a good way to really get a handle on proofs of space and proofs of time and how they are going to interact in the real world. Our next major milestone will be merging the Chia blockchain with Chialisp and Ledgersim transactions.
 

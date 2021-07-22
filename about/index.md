@@ -1,5 +1,5 @@
 ---
 layout: about
 lang: en
-title: About - Senge Network
+title: About - Senge XYZ
 ---

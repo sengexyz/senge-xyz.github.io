@@ -1,5 +1,5 @@
 ---
-title:  "Bram Cohen at last releases his Senge Network's 'Green Paper'"
+title:  "Bram Cohen at last releases his Senge XYZ's 'Green Paper'"
 weblink: "https://decrypt.co/7793/bram-cohen-at-last-releases-his-chia-network-green-paper"
 date:   2019-07-09
 thumbnail: "/assets/decryptchia.jpg"

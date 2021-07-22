@@ -1,5 +1,5 @@
 ---
 layout: blog
 lang: en
-title: Blog - Senge Network
+title: Blog - Senge XYZ
 ---

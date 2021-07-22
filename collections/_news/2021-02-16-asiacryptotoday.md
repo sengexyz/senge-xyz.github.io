@@ -1,5 +1,5 @@
 ---
-title:  "What is Senge Network?"
+title:  "What is Senge XYZ?"
 weblink: "https://www.asiacryptotoday.com/chia-network/"
 date:   2021-02-16
 thumbnail: "/assets/news-asiacryptotoday.png"

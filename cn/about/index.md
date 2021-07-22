@@ -1,5 +1,5 @@
 ---
 layout: about
 lang: cn
-title: 关于 - Senge Network
+title: 关于 - Senge XYZ
 ---

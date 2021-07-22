@@ -23,8 +23,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="1.7633333"
-     inkscape:cx="178.35539"
-     inkscape:cy="98.960302"
+     inkscape:cx="66.635162"
+     inkscape:cy="98.960304"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -39,7 +39,7 @@
      fill-rule="evenodd">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.25;font-family:sans-serif;fill:#808000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.25;font-family:sans-serif;fill:#cdcd32;fill-opacity:1;stroke:none"
        x="5.9546318"
        y="42.249527"
        id="text2157"><tspan
@@ -47,6 +47,6 @@
          id="tspan2155"
          x="5.9546318"
          y="42.249527"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#808000">Senge</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#cdcd32;fill-opacity:1">Senge</tspan></text>
   </g>
 </svg>

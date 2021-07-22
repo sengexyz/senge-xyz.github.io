@@ -1,5 +1,5 @@
 ---
 layout: homemain
 lang: cn
-title: 首页 - Senge Network
+title: 首页 - Senge XYZ
 ---

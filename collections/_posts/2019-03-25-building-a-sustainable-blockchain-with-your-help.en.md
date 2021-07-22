@@ -22,7 +22,7 @@ Digital coins are created via consensus, a mechanism that is used in blockchain 
 
 Proofs-of-work rely on computing power, which means the mining operations that rely on these proofs are draining energy at an alarming rate. At the same time, miners are forming pools, which is bringing a sort of centralization to a world that purports to be decentralized.
 
-Proofs-of-space and time—the method we are pioneering at Senge Network—don’t rely on computing power but on available disk space. This means creating coins doesn’t require energy. With Chia’s system, miners allocate unused disk space to the network, and the probability of successfully “farming” a digital coin being proportional to the amount of space allocated divided by the total capacity of the network.
+Proofs-of-space and time—the method we are pioneering at Senge XYZ—don’t rely on computing power but on available disk space. This means creating coins doesn’t require energy. With Chia’s system, miners allocate unused disk space to the network, and the probability of successfully “farming” a digital coin being proportional to the amount of space allocated divided by the total capacity of the network.
 
 The proofs-of-space and time are also resistant to centralization or mining pools, which delivers on the early promises of digital currencies: that they remain decentralized.
 
