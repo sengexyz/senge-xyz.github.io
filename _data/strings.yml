@@ -70,7 +70,7 @@ en: # English
     Many on the Chia team are located in the SF Bay Area but remote is fine as we have people all over the world - Keybase, GitHub, and Zoom are how we work. Geographic restrictions, if any, will be noted in a job specification.
 
     Please send your resume and cover letter to [jobs@chia.net](jobs@chia.net). Please put the role you are applying for as part of the subject line and include anything additionally required by a specific job posting.
-  blog_title: "Notes from Chia"
+  blog_title: "Notes from Senge"
   download_title: "Release Notes"
   download_loading_message: "Loading releases..."
   green_paper_main_title: "Chia's Green Paper"
@@ -197,7 +197,7 @@ cn: # Chinese
 
     在业余时间，我会制作木工，演奏吉他，和唱歌。
   about_invest_investors_title: "我们的客户"
-  blog_title: "直接来自Chia"
+  blog_title: "森哥的笔记"
   download_title: "发行说明"
   download_loading_message: "正在加载发行版..."
   download_windows_button: "Windows"
