@@ -100,7 +100,7 @@ en: # English
     * [Chia Trademark Policy](/assets/legal/Chia-Trademark-Policy.pdf)
   footer_copyright_year: "© Senge XYZ 2021"
   navigation:
-    download: "Download"
+    # download: "Download"
     about: "About"
     blog: "Blog"
     # news: "News"
@@ -221,7 +221,7 @@ cn: # Chinese
     Bram在SF Bitcoin Devs Seminar上进行了[演讲]（https://www.youtube.com/watch?v=zZaB4hM8SQ4），讨论了使用[幻灯片]扩展比特币的数据结构（https://view.publitas.com/chia -network / bitcoin_data_structures /）和[Merkle Set代码]（https://github.com/bramcohen/MerkleSet）。布拉姆（Bram）在SF比特币开发者研讨会上发表了有关消除加密货币浪费的演讲[https://www.youtube.com/watch?v=zZaB4hM8SQ4]。
   footer_copyright_year: "©Senge XYZ 2021"
   navigation:
-    download: "下载"
+    # download: "下载"
     about: "关于"
     blog: "博客"
     # news: "新闻"
