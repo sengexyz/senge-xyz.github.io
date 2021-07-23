@@ -1,7 +1,11 @@
 ---
 lang: en
 order: 3
-title: "What is Proof of Space and Time?"
+title: "How many miners do you have? How many terabytes of computing power?"
 ---
 
-Proof of Space is a cryptographic technique where provers show that they allocate unused hard drive space for storage space. In order to be used as a consensus method, Proof of Space must be tied to Proof of Time. PoT ensures that block times have consistency in the time between them and increases the overall security of the blockchain.
+At present, there are a total of 9 P drawing machines and harvesters in Senge. The computing power is around 600TB. The pictures of the main miners are as follows:
+
+<p align="center">
+  <img src="/assets/faq/senge_miner.jpg" alt="Senge's machines" width="360">
+</p>

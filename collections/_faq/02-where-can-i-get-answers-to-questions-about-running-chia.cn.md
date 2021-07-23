@@ -1,7 +1,8 @@
 ---
 lang: cn
 order: 2
-title: "在哪裡可以找到有關運行Chia的問題的答案？"
+title: "如果我有任何软件或者挖矿方面的问题，如何得到解答？"
 ---
 
-You should first read the [repository FAQ](https://github.com/Chia-Network/chia-blockchain/wiki/FAQ), check out the wealth of information on the [repository wiki](https://github.com/Chia-Network/chia-blockchain/wiki/) and  join us on [Keybase](https://keybase.io/team/chia_network.public) in the #testnet or #beginner channels. We have also created a good [summary of the basics of creating plots](https://www.chia.net/2021/02/22/plotting-basics.html) for Chia.
+可以直接在森哥[YouTube](#)视频下方留言。或者加入森哥的[电报群](#)提问，那里有很多经验丰富且热心的朋友。
+

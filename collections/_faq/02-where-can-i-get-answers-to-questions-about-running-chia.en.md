@@ -1,7 +1,7 @@
 ---
 lang: en
 order: 2
-title: "Where can I get answers to questions about running Chia?"
+title: "If I have any software or farming/mining questions, how can I get answers?"
 ---
 
-You should first read the [repository FAQ](https://github.com/Chia-Network/chia-blockchain/wiki/FAQ), check out the wealth of information on the [repository wiki](https://github.com/Chia-Network/chia-blockchain/wiki/) and  join us on [Keybase](https://keybase.io/team/chia_network.public) in the #testnet or #beginner channels. We have also created a good [summary of the basics of creating plots](https://www.chia.net/2021/02/22/plotting-basics.html) for Chia.
+You can leave a message directly under the video of Sengge [YouTube](#). Or join Senge’s [Telegram group](#) to ask questions, where there are many experienced and enthusiastic friends.

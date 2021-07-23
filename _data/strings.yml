@@ -48,7 +48,7 @@ en: # English
   download_centosfedora_button: "CentOS/Redhat"
   download_wsl2_button: "Install WSL2"
   download_amzlinux_button: "Install Amazon Linux"
-  about_title: "About Us"
+  about_title: "About Me"
   about_description: |
     I am a software engineer born in mainland China and currently living in the United States. He has nearly 20 years of work and academic experience in the field of software and engineering. He has worked in various software companies and led the research and development of many software products and won praise in the industry. Not only has a deep understanding of software code and architecture, but also has a professional perspective and processing methods for engineering, requirements, and products.
 
@@ -155,7 +155,7 @@ en: # English
       sign_up: "Sign Up"
 
 cn: # Chinese
-  faq_title: "常问问题"
+  faq_title: "常见问题"
   news_title: "新闻"
   news_see_more: "查看更多"
   homemain_title: "正大网络"
@@ -183,7 +183,7 @@ cn: # Chinese
   homemain_idc_quote: |
     “The Senge XYZ was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
-  about_title: "关于我们"
+  about_title: "关于我"
   about_description: |
     我是一名出生于中国大陆，目前定居于美国的软件工程师。在软件和工程领域有近20年的工作与学术经验。曾经在各类型软件企业工作过，主导研发过多款软件产品并赢得业界好评。不仅对软件代码、构架有着深刻的认识，对工程、需求、产品都有专业视角与处理方式。
 
@@ -225,7 +225,7 @@ cn: # Chinese
     about: "关于"
     blog: "博客"
     # news: "新闻"
-    faq: "常问问题"
+    faq: "常见问题"
     # greenpaper: "绿皮书"
     contact: "联系"
   contact_title: "联系我们"
