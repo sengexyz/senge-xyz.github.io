@@ -1,0 +1,62 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://senge.xyz" # the base hostname & protocol for your site
+plugins:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+
+# SEO settings
+title: Senge XYZ
+description: > # this means to ignore newlines until "baseurl:"
+  A better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.
+twitter:
+  username: chia_project
+  card: summary
+# facebook:
+#   publisher: https://www.facebook.com/ChiaProject
+logo: /img/senge_logo.svg
+social:
+  links:
+    - https://twitter.com/chia_project
+    # - https://www.facebook.com/ChiaProject
+    # - https://instagram.com/chia_project
+    # - https://www.linkedin.com/company/chia-network/
+    - https://github.com/SengeXYZ
+    # - https://medium.com/@chia.net
+    # - https://keybase.io/team/chia_network.public
+# google_analytics_snippet: |
+#   <!-- Global site tag (gtag.js) - Google Analytics -->
+#   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157739092-1"></script>
+#   <script>
+#     window.dataLayer = window.dataLayer || [];
+#     function gtag(){dataLayer.push(arguments);}
+#     gtag('js', new Date());
+
+#     gtag('config', 'UA-157739092-1');
+#   </script>
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://senge.xyz/android-chrome-384x384.png
+
+collections_dir: collections
+collections:
+  news:
+    output: false
+  investor_pics:
+    output: false
+  faq:
+    output: false
+  job_descriptions:
+    output: false
+
+# Build settings
+markdown: kramdown
