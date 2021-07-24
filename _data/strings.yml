@@ -61,7 +61,7 @@ en: # English
     My professional skills include: software product design and architecture, proficient programming languages including but not limited to C/C++, Python.
 
     In my spare time, I can make woodwork, play guitar, and sing. In addition, I am also good at stand-up comedy.
-  about_invest_investors_title: "My Customers and Partnerss"
+  about_invest_investors_title: "Customers and Partnerss"
   careers_title: "Careers"
   careers_description: |
     **Chia is hiring!**
@@ -160,7 +160,7 @@ cn: # Chinese
   news_title: "新闻"
   news_see_more: "查看更多"
   homemain_title: "码农森哥的网站"
-  homemain_subtitle: "森哥一枚喜欢挖矿/耕种的资深程序员。"
+  homemain_subtitle: "森哥是一枚喜欢挖矿/耕种的资深程序员。"
   homemain_announce: "<a href='https://youtube.com/channel/UCSD01JCN0SicK_VrbHM-Dhg'>森哥的网站正式上线啦!</a>"
   homemain_button: "下载Beta Testnet"
   homemain_description: |
@@ -203,7 +203,7 @@ cn: # Chinese
     我的专业技能有：软件产品设计与构架，熟练的编程语言包括但不限于C/C++, Python。
 
     在业余时间，我会制作木工，演奏吉他，和唱歌。此外我还擅长单口相声。
-  about_invest_investors_title: "我的客户与合作伙伴"
+  about_invest_investors_title: "客户与合作伙伴"
   blog_title: "森哥的笔记"
   download_title: "发行说明"
   download_loading_message: "正在加载发行版..."
