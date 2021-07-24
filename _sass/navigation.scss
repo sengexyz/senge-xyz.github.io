@@ -1,7 +1,7 @@
 .navbar {
     padding-bottom: 0;
     padding-top: 0;
-    background-color: #0b0530;
+    background-color: #0065c3;
 
     .navbar-brand img {
         height: 2.5rem;
@@ -26,11 +26,11 @@
 
     .nav-item.active {
         .nav-link {
-            color: #1e75c7;
+            color: #00ffff;
         }
 
         .highlight {
-            border-top: 5px solid #1e75c7;
+            border-top: 5px solid #0065c3;
         }
     }
 

@@ -1,5 +1,5 @@
 ---
 layout: contact
 lang: cn
-title: 联系 - Senge XYZ
+title: 联系方式 - Senge XYZ
 ---

@@ -2,7 +2,7 @@
     .header-section {
         min-height: 290px;
         width: 100%;
-        background: linear-gradient(180deg, #04c6f6 0%, #020949 100%);
+        background: linear-gradient(180deg, #020949 0%, #0065c3 100%);
         
         img {
             margin-bottom: 3px;
@@ -32,15 +32,15 @@
         }
 
         .btn {
-            border: 3px solid #1e75c7;
+            border: 3px solid #0065c3;
             border-radius: 2px;
             font-size: 24px;
-            color: #1e75c7;
+            color: #0065c3;
             padding: 1rem 2rem;
             transition: ease 0.2s all;
 
             &:hover {
-                background: #1e75c7;
+                background: #0065c3;
                 color: #0D324D;
             }
         }
@@ -74,7 +74,7 @@
         }
 
         .btn {
-            background: #1e75c7;
+            background: #0065c3;
             color: white;
             border-radius: 2px;
             font-weight: bold;
@@ -90,7 +90,7 @@
     }
 
     .release-notes {
-        color: #1e75c7;
+        color: #0065c3;
         text-decoration: underline;
         margin-top: 40px;
         font-weight: bold;
