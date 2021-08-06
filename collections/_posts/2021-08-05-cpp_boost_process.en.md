@@ -570,3 +570,4 @@ int main(int argc, char *argv[])
 需要注意的是，wait_children出错时，返回第一个子进程的退出码，所有子进程都正常退出时，返回最后一个子进程的退出码。
 
 master3中大量用到进程管理这个库。这个Boost.Process库可以在这里获得点这里。
+
