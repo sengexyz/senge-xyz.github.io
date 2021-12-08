@@ -1,5 +1,5 @@
 ---
-lang: cn
+lang: en
 layout: post
 title: "Boost::Process 进程管理"
 date: 2021-08-05
@@ -42,7 +42,7 @@ Boost.Process的长期目标是提供一个抽象于操作系统之上的，可�
 #include <string>
 #include <vector>
  
-namespace bp = boost::process;
+namespace bp = ::boost::process;
  
 bp::child start_child()
 {

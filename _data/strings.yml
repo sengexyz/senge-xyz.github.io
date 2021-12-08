@@ -10,13 +10,13 @@ en: # English
     Hello everyone, I am your Senge.
     --------------------
 
-    Here is the official homepage of Senge. Welcome everyone who comes. On this site I share some text-related content, such as programming, farming/mining, and some experiences and interesting things in my life. Some independent software developed in the future will also be shared here for the first time. The permanent domain name of this site is [senge.xyz](https://senge.xyz).
+    Here is the official homepage of Senge. Welcome everyone who comes. On this site I share some text-related content, such as programming, farming/mining, and crypto trading that happened in my life. Some independent software developed in the future will also be shared here for the first time. The permanent domain name of this site is [__senge.xyz__](https://senge.xyz).
 
-    Friends who are familiar with Senge’s [YouTube](https://www.youtube.com/channel/UCSD01JCN0SicK_VrbHM-Dhg) channel and videos know that Senge is a loyal farmer of Chia (XCH) cryptocurrency. He also has a deep understanding of Chia and his own unique perspective. I am extremely optimistic about Chia and its entire ecosystem for a long time. Like-minded friends are welcome to join the Senge's [Telegram group](https://t.me/chia168) to share information and help each other.
+    Friends who are familiar with Senge’s [YouTube channel](https://www.youtube.com/channel/UCSD01JCN0SicK_VrbHM-Dhg) and videos know that Senge not only writes code and does good projects, but also has great interest and knowledge in the technology, products, and market of blockchain cryptocurrency. He has not only mined/farmed the most difficult crypto (XCH), has launched the most technical blockchain, and has also developed exchange big data monitoring programs that are extremely helpful for crypto trading. At present, this set of procedures helps Senge make the best investment decisions every day. At the same time, Senge is happy to share and update the latest videos every day like a hard-working bee to help the brothers prevent losing profits and earn more from the crypto market.
 
     Senge is a software engineer with nearly 20 years of experience, good at enterprise software engineering and development, proficient in various types of programming languages, and has deep attainments and understanding of applied mathematics, physics, and engineering disciplines. Senge also provides technical consulting services. If you have any software needs or collaboration intentions, please feel free to contact me via [email](mailto:malongsenge@gmail.com).
 
-    The content of this site and Senge's comments do not constitute any cryptocurrency investment advice.
+    The content of this website and Senge's statements do not constitute any cryptocurrency investment advice.
    
   homemain_addendum: |
     Released under the open source [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
@@ -29,10 +29,14 @@ en: # English
   homemain_box_button: "Source Code"
   install_box_button: "Install my firstApp"
   homemain_downloads_link: "Release notes"
-  homemain_idc_title: "Chia and Forks"
+  homemain_idc_title: "Youtube Channel"
   homemain_idc_quote: |
-    Networks and price of Chia and its popular forks.
-  homemain_idc_report: "Read the Data"
+    Join the membership for exclusive information
+  homemain_idc_report: "Senge's YouTube Channel"
+  homemain_maillist_title: "VIP Mail List"
+  homemain_maillist_quote: |
+    Obtain the latest real-time data of the bullish cryptocurrencies 
+  homemain_maillist_report: "Read More..."
   download_main_text: |
     This is the official Chia installer download page. Any other installer download sources are unofficial and unsafe.
   download_windows_text: |
@@ -51,11 +55,11 @@ en: # English
   download_amzlinux_button: "Install Amazon Linux"
   about_title: "About Me"
   about_description: |
-    I am a software engineer born in mainland China and currently living in the United States. He has nearly 20 years of work and academic experience in the field of software and engineering. He has worked in various software companies and led the research and development of many software products and won praise in the industry. Not only has a deep understanding of software code and architecture, but also has a professional perspective and processing methods for engineering, requirements, and products.
+    I am a software engineer born in mainland China and currently living in the United States. I have nearly 20 years of work and academic experience in the field of software and engineering. Senge has worked in various software companies and led the research and development of many software products and won praise in the industry. Not only has a deep understanding of software code and architecture, but also has a professional perspective and processing methods for engineering, requirements, and products.
 
     In April 2021, the Chia cryptocurrency became popular on the entire network. I was also involved in the mining tide for the first time. Through this opportunity, I also gained a very in-depth understanding of cryptocurrency and blockchain technology, and I mastered it in a very short period of time. I have learned a series of important skills such as mining and issuing coins, and I am willing to share knowledge and make friends. I have met many friends and partners on YouTube channels and telegram groups.
 
-    Having lived in China and the United States for many years, I can not only communicate fluently in both Chinese and English, but also have a deep understanding of Chinese and Western cultures. Honesty and truthfulness, drinking water and thinking about the source have always been my life creed.
+    Having lived in China and the United States for many years, I can not only communicate fluently in both Chinese and English, but also have a deep understanding of Chinese and Western cultures. Honesty, thankfulness and truthfulness have always been my mottos.
   about_team_title: "Expertise"
   about_team_description: |
     My professional skills include: software product design and architecture, proficient programming languages including but not limited to C/C++, Python.
@@ -160,16 +164,16 @@ cn: # Chinese
   news_title: "新闻"
   news_see_more: "查看更多"
   homemain_title: "码农森哥的网站"
-  homemain_subtitle: "森哥是一枚喜欢挖矿/耕种的资深程序员。"
+  homemain_subtitle: "森哥是一枚喜欢挖矿/耕种/炒币的资深程序员。"
   homemain_announce: "<a href='https://youtube.com/channel/UCSD01JCN0SicK_VrbHM-Dhg'>森哥的网站正式上线啦!</a>"
   homemain_button: "下载Beta Testnet"
   homemain_description: |
     大家好，我是你们的森哥
     -------------
 
-    欢迎访问码农森哥的官方主页。在这里，我会分享一些文字相关的内容，比如编程、挖矿、以及生活中的一些体会和趣事。将来开发出的一些独立软件也会在这里第一时间分享给大家，本站永久域名是[senge.xyz](https://senge.xyz)。
+    欢迎访问码农森哥的官方主页。在这里，我会分享一些文字相关的内容，比如编程、挖矿、以及炒币中的一些体会和趣事。将来开发出的一些独立软件也会在这里第一时间分享给大家，本站永久域名是[__senge.xyz__](https://senge.xyz)。
 
-    熟悉森哥[YouTube](https://www.youtube.com/channel/UCSD01JCN0SicK_VrbHM-Dhg)频道和视频的朋友们都知道，森哥是Chia（XCH）加密货币的忠实农民，对Chia也有深刻的理解和自己独特的视角，长期看好Chia及其整个生态系统的发展。欢迎志同道合的兄弟加入森哥[电报群](https://t.me/chia168)，共享信息互帮互助。
+    熟悉森哥[YouTube频道](https://www.youtube.com/channel/UCSD01JCN0SicK_VrbHM-Dhg)和视频的朋友们都知道，森哥不仅写得了代码做得好项目，对区块链加密货币的技术、产品、以及市场都有很大兴趣和造诣，不仅挖过世界上最难挖的矿（XCH）,发过最有技术含量的区块主链，也写过对炒币极有帮助的交易所大数据监控程序。目前这套程序每天帮助森哥做出最好的投资决策。同时森哥乐于分享，每天像勤劳的小蜜蜂一样更新最新视频，帮助兄弟们防割防埋防CX，赚收益得快乐享人生。
 
     森哥是拥有近20年经验的软件工程师，擅长大型软件工程，精通各类型编程语言，对应用数学、物理、及工程学科都有很深的造诣和理解。森哥同时提供技术类的咨询服务，如果您有任何需求或者合作意向，欢迎通过电子邮件联系。
 
@@ -186,10 +190,13 @@ cn: # Chinese
   homemain_box_button: "项目源代码"
   install_box_button: "Install Chia Blockchain"
   homemain_downloads_link: "查看发行说明"
-  homemain_idc_title: "Chia及其分叉"
+  homemain_idc_title: "YouTube频道"
   homemain_idc_quote: |
-    Chia及其分叉的算力和币价
-  homemain_idc_report: "xchforks的数据"
+    加入会员获得优质讯息
+  homemain_idc_report: "森哥的YouTube频道"
+  homemain_maillist_title: "大数据邮件列表"
+  homemain_maillist_quote: 实时获得最新最火的加密货币交易信息
+  homemain_maillist_report: "邮件列表详情"
   about_title: "关于我"
   about_description: |
     我是一名出生于中国大陆，目前定居于美国的软件工程师。在软件和工程领域有近20年的工作与学术经验。主导研发过多款软件产品并赢得业界好评。不仅对软件代码、构架有着深刻的认识，对工程、需求、产品都有专业视角与处理方式。
