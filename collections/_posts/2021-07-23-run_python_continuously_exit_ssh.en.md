@@ -3,7 +3,7 @@ lang: en
 layout: post
 title: "Linux上远程运行不间断Python服务(ssh断开不退出)"
 date: 2021-07-23
-author: "[码农森哥](https://twitter.com/senge26430360)"
+author: "[码农森哥](https://twitter.com/sengexyz)"
 ---
 
 

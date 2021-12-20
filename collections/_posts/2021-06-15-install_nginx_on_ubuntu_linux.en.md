@@ -3,7 +3,7 @@ lang: en
 layout: post
 title: "在Ubuntu 20.04系统上安装Nginx"
 date: 2021-06-15
-author: "[码农森哥](https://twitter.com/senge26430360)"
+author: "[码农森哥](https://twitter.com/sengexyz)"
 ---
 
 Nginx 发音 “engine x”，是一个开源软件，高性能 HTTP 和反向代理服务器，用来在互联网上处理一些大型网站。它可以被用作独立网站服务器，负载均衡，内容缓存和针对 HTTP 和非 HTTP 的反向代理服务器。

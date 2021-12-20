@@ -3,7 +3,7 @@ lang: cn
 layout: post
 title: "Boost::Beast Websocket库"
 date: 2021-08-07
-author: "[码农森哥](https://twitter.com/senge26430360)"
+author: "[码农森哥](https://twitter.com/sengexyz)"
 ---
 
 

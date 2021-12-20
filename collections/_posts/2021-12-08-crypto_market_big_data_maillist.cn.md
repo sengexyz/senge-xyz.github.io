@@ -3,7 +3,7 @@ lang: cn
 layout: post
 title: "森哥研发的加密货币实时监控系统"
 date: 2021-12-08
-author: "[码农森哥](https://twitter.com/senge26430360)"
+author: "[码农森哥](https://twitter.com/sengexyz)"
 ---
 
 为了方便自己关注加密货币市场，森哥自己写了一套交易所大数据监控程序，用于实时获取当前变化最大最快的币种。这个系统可以给我或多人同时发布经过数据挖掘程序筛选的币种，帮助我们更好的理解当前市场。

@@ -3,7 +3,7 @@ lang: en
 layout: post
 title: "Windows编译生成Chia安装包"
 date: 2021-08-14
-author: "[码农森哥](https://twitter.com/senge26430360)"
+author: "[码农森哥](https://twitter.com/sengexyz)"
 ---
 
 很有很多挖矿的兄弟来询问如何在Windows下编译Chia的安装包。对于一些基于Chia的分叉币，本教程也适用。森哥现在总结如下：

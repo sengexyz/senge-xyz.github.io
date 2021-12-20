@@ -3,7 +3,7 @@ lang: cn
 layout: post
 title: "Boost::Process 进程管理"
 date: 2021-08-05
-author: "[码农森哥](https://twitter.com/senge26430360)"
+author: "[码农森哥](https://twitter.com/sengexyz)"
 ---
 
 ## 概述

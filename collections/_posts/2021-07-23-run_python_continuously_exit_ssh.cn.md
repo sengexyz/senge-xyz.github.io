@@ -3,7 +3,7 @@ lang: cn
 layout: post
 title: "Linux上远程运行不间断Python服务(ssh断开不退出)"
 date: 2021-07-23
-author: "[码农森哥](https://twitter.com/senge26430360)"
+author: "[码农森哥](https://twitter.com/sengexyz)"
 ---
 
 通过ssh登录服务器运行一个python脚本，想让它24小时不间断运行。可是一旦退出ssh，整个程序就断了。这是由于ssh的session特性——它本身就是一个session，连接上开启session，断开ssh连接则关闭session，关闭时所有你在这个session里运行的东西都会被中断。

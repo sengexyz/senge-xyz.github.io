@@ -3,7 +3,7 @@ lang: en
 layout: post
 title: "Crypto real-time monitoring system developed by Senge"
 date: 2021-12-08
-author: "[码农森哥](https://twitter.com/senge26430360)"
+author: "[码农森哥](https://twitter.com/sengexyz)"
 ---
 
 In order to facilitate one's own attention to the cryptocurrency market, Senge wrote a set of exchange big data monitoring program for real-time access to the current currency with the largest and fastest changes. This system can send the crypto status selected by the data mining program to me or multiple users at the same time to help us have a clear picture about the market.

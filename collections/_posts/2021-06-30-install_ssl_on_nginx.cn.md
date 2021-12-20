@@ -3,7 +3,7 @@ lang: cn
 layout: post
 title: "使用 Let’s Encrypt 给 Nginx网站加密（SSL）"
 date: 2021-06-30
-author: "[码农森哥](https://twitter.com/senge26430360)"
+author: "[码农森哥](https://twitter.com/sengexyz)"
 ---
 
 Let’s Encrypt 是Certificate Authority机构（CA）的一个加密证书。它可以帮助我们免费获得和安装TLS/SSL证书，获得这个证书，就可以在我们的服务器上启动HTTPS加密。Let’s Encrypt 提供一个软件Certbot来简化安装步骤，可以让大多数安装步骤已经全自动化进行。Certbot已经可以在 Apache 和 Nginx 上全自动安装了。

@@ -3,7 +3,7 @@ lang: cn
 layout: post
 title: "C++ 11 Lambda表达式"
 date: 2021-08-10
-author: "[码农森哥](https://twitter.com/senge26430360)"
+author: "[码农森哥](https://twitter.com/sengexyz)"
 ---
 
 
