@@ -103,7 +103,7 @@ en: # English
     * [Guidelines for Using Senge XYZ’s Trademarks and Copyrighted Materials on the Web](/assets/legal/Guidelines-for-Using-Chia-Network.pdf)
     * [Chia Copyright Policy](/assets/legal/Chia-Copyright-Policy.pdf)
     * [Chia Trademark Policy](/assets/legal/Chia-Trademark-Policy.pdf)
-  footer_copyright_year: "© Senge XYZ 2021"
+  footer_copyright_year: "© Senge XYZ 2022"
   navigation:
     # download: "Download"
     about: "About"
@@ -233,7 +233,7 @@ cn: # Chinese
     布拉姆·科恩（Bram Cohen）于2018年2月在斯坦福大学（太空证明）上演讲（https://www.youtube.com/watch?v=2Zlcgt8FVz4）。我们的顾问Dan Boneh，BenediktBünz和Ben Fisch [发布了VDF调查]（https://eprint.iacr.org/2018/712.pdf），这是时间证明的基础技术。 Lipa Long [发布了有关班级分组的说明]（https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf），我们的《时间证明》（https://eprint.iacr.org/2018/627.pdf）。根据[学术论文]，布拉姆于2018年1月在BPASE '18上展示了[超越Hellman的时间记忆权衡与空间证明的应用]（https://www.youtube.com/watch?v=iqxkO7C-cyk） ]（https://eprint.iacr.org/2017/893）和Hamza Abusalah的这些[幻灯片]（https://view.publitas.com/chia-network/pbase18slides/page/1）。 Ben Fisch在2018年1月的BPASE 2018上就可验证延迟功能进行了[演讲]（https://www.youtube.com/watch?v=qUoagL7OZ1k）。 Bram [在伯克利的Blockchain发言人]（https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/）（大约20:00开始）于2018年3月发布，带有[幻灯片]（https://cyber.stanford.com）。 edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf）。布拉姆（Bram）在2017年1月发表了[在BPASE 2017上的演讲]（https://www.youtube.com/watch?v=aYG0NxoG7yw），内容涉及用时空证明（[幻灯片]（https：//cyber.stanford .edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf））。
 
     Bram在SF Bitcoin Devs Seminar上进行了[演讲]（https://www.youtube.com/watch?v=zZaB4hM8SQ4），讨论了使用[幻灯片]扩展比特币的数据结构（https://view.publitas.com/chia -network / bitcoin_data_structures /）和[Merkle Set代码]（https://github.com/bramcohen/MerkleSet）。布拉姆（Bram）在SF比特币开发者研讨会上发表了有关消除加密货币浪费的演讲[https://www.youtube.com/watch?v=zZaB4hM8SQ4]。
-  footer_copyright_year: "©Senge XYZ 2021"
+  footer_copyright_year: "©码农森哥 2022"
   navigation:
     # download: "下载"
     about: "关于"
