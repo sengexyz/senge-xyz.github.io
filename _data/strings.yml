@@ -31,9 +31,9 @@ en: # English
   homemain_downloads_link: "Release notes"
   homemain_idc_title: "VIP Membership"
   homemain_idc_quote: |
-    Obtain exclusive information, boost your investment
-  homemain_idc_report: "Senge's YouTube Channel"
-  homemain_vip_pateron: "Senge's Patreon"
+    Obtain exclusive information, boost your investment returns
+  homemain_idc_report: "YouTube Channel"
+  homemain_vip_pateron: "Patreon Platform"
   homemain_maillist_title: "VIP Mail List"
   homemain_maillist_quote: |
     Obtain the latest real-time data of the bullish cryptocurrencies 
@@ -194,8 +194,8 @@ cn: # Chinese
   homemain_idc_title: "VIP会员"
   homemain_idc_quote: |
     加入会员获得财富密码，物超所值
-  homemain_idc_report: "森哥的YouTube频道"
-  homemain_vip_pateron: "森哥的Patreon会员"
+  homemain_idc_report: "YouTube频道"
+  homemain_vip_pateron: "Patreon平台"
   homemain_maillist_title: "大数据邮件列表"
   homemain_maillist_quote: 实时获得最新最火的加密货币交易信息
   homemain_maillist_report: "邮件列表详情"
