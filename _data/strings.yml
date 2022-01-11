@@ -29,10 +29,11 @@ en: # English
   homemain_box_button: "Source Code"
   install_box_button: "Install my firstApp"
   homemain_downloads_link: "Release notes"
-  homemain_idc_title: "Youtube Channel"
+  homemain_idc_title: "VIP Membership"
   homemain_idc_quote: |
-    Join the membership for exclusive information
+    Obtain exclusive information, boost your investment
   homemain_idc_report: "Senge's YouTube Channel"
+  homemain_vip_pateron: "Senge's Patreon"
   homemain_maillist_title: "VIP Mail List"
   homemain_maillist_quote: |
     Obtain the latest real-time data of the bullish cryptocurrencies 
@@ -190,10 +191,11 @@ cn: # Chinese
   homemain_box_button: "项目源代码"
   install_box_button: "Install Chia Blockchain"
   homemain_downloads_link: "查看发行说明"
-  homemain_idc_title: "YouTube频道"
+  homemain_idc_title: "VIP会员"
   homemain_idc_quote: |
-    加入会员获得优质讯息
+    加入会员获得财富密码，物超所值
   homemain_idc_report: "森哥的YouTube频道"
+  homemain_vip_pateron: "森哥的Patreon会员"
   homemain_maillist_title: "大数据邮件列表"
   homemain_maillist_quote: 实时获得最新最火的加密货币交易信息
   homemain_maillist_report: "邮件列表详情"
